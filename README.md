@@ -11,11 +11,12 @@ This repo grows as I learn. Code is written step by step, with experiments, mist
 | **Folder**                       | **Purpose**                                                      |
 | ---------------------------- | ------------------------------------------------------------ |
 | `01_arrays_basics`           | Array creation, shape, ndim, and basic dtype concepts        |
-| `02_memory_model`            | Memory layout, itemsize, nbytes, strides, views vs copies    |
-| `03_indexing_slicing`        | Basic indexing, slicing behavior, boolean and fancy indexing |
-| `04_vectorization`           | Vectorization, broadcasting rules, ufuncs, loops vs NumPy    |
-| `05_performance_experiments` | Timing comparisons and memory efficiency experiments         |
-| `06_exercises`               | Practice problems and small NumPy experiments                |
+| `02_indexing_slicing`        | Basic indexing, slicing behavior, boolean and fancy indexing |
+| `03_memory_model`            | Memory layout, itemsize, nbytes, strides, views vs copies    |
+| `04_indexing_slicing_advanced`|Advanced indexing, slicing behavior, boolean and  indexing   |
+| `05_vectorization`           | Vectorization, broadcasting rules, ufuncs, loops vs NumPy    |
+| `06_performance_experiments` | Timing comparisons and memory efficiency experiments         |
+| `07_exercises`               | Practice problems and small NumPy experiments                |
 
 
 
