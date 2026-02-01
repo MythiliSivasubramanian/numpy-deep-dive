@@ -33,7 +33,7 @@ This repo grows as I learn. Code is written step by step, with experiments, mist
 
 * Each folder focuses on one concept
 * Files are small and intentional
-* Examples are meant to be run, modified, and brokend.
+* Examples are meant to be run, modified, and broken.
 * Comments explain why, not just what
 
 **This is a learning repo**
